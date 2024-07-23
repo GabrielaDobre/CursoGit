@@ -17,5 +17,7 @@ public class Titulares{
 	miCuenta.cantidadToString();
 
 	System.out.println("En la cuenta de: " + miCuenta.getTitular() + ", hay un total de: " + miCuenta.getCantidad()+ miCuenta.cantidadToString() );
+	
+	System.out.println("Esta línea es solo de prueba");
 	}
 }
