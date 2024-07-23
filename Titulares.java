@@ -20,6 +20,6 @@ public class Titulares{
 	
 	System.out.println("Esta línea es solo de prueba");
 	
-	System.out.println("más cambios");
+	
 	}
 }
